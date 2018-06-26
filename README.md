@@ -11,7 +11,7 @@ Tester can work without LCD Module. To get and set different DEVADDR, APPEUI and
 
 After start the JOIN request is sent. If the LED is not blinking after few seconds, then the request was sucessfull. By pressing the button the test packet is sent.
 
-![My image](hubmartin.github.com/bcf-lora-tester/lcd.jpg)
+![My image](https://github.com/hubmartin/bcf-lora-tester/blob/master/lcd.jpg)
 
 
 
